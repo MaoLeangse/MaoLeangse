@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me :vai email
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Fast leaner and hungry for knowledge
+- ⚡ Fun fact: Fast learner and hungry for knowledge
 
 <!---
 MaoLeangse/MaoLeangse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
